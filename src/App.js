@@ -39,6 +39,7 @@ class App extends Component {
     this.setState({ todos: todos });
   }
 
+  //Added deleteTodo={ () => this.deleteTodo(index) }
  render() {
  return (
    <div className="App">
