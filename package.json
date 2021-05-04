@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "extend": "^3.0.2",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "react": "^16.4.0",
     "react-dev-utils": "^7.0.1",
     "react-dom": "^16.7.0",
